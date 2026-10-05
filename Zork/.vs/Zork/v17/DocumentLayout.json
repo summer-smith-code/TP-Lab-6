@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\summe\\Documents\\GitHub\\TP-Lab-6\\Zork\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{85525535-7582-436B-B9DD-1595987C7F10}|Zork\\Zork.csproj|c:\\users\\summe\\documents\\github\\tp-lab-6\\zork\\zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85525535-7582-436B-B9DD-1595987C7F10}|Zork\\Zork.csproj|solutionrelative:zork\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\summe\\Documents\\GitHub\\TP-Lab-6\\Zork\\Zork\\Program.cs",
+              "RelativeDocumentMoniker": "Zork\\Program.cs",
+              "ToolTip": "C:\\Users\\summe\\Documents\\GitHub\\TP-Lab-6\\Zork\\Zork\\Program.cs",
+              "RelativeToolTip": "Zork\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwHAAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-05T14:59:32.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
